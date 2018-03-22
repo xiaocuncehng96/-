@@ -1,0 +1,316 @@
+[
+	{
+		"id": "01",
+		"title": "300g丰灵Tipo友谊牌榴莲味面包干",
+		"price": "￥6.00",
+		"imgres": "images01/01.jpg",
+		"imgmin":["img02/1-1.jpg"],
+		"cost":"￥10.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "02",
+		"title": "225g孜然黑胡椒味不规则饼",
+		"price": "￥35.00",
+		"imgres": "images01/02.jpg",
+		"imgmin":["img02/2-1.jpg","img02/2-2.jpg"],
+		"cost":"￥60.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},
+	{
+		"id": "03",
+		"title": "225g芝士味不规则饼",
+		"price": "￥8.90",
+		"imgres": "images01/03.jpg",
+		"imgmin":["img02/3-1.jpg","img02/3-2.jpg","img02/3-3.jpg"],
+		"cost":"￥12.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "04",
+		"title": "225g酸奶洋葱味不规则饼",
+		"price": "￥15.90",
+		"imgres": "images01/04.jpg",
+		"imgmin":["img02/4-1.jpg","img02/4-2.jpg"],
+		"cost":"￥22.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "05",
+		"title": "225g番茄味不规则饼",
+		"price": "￥16.00",
+		"imgres": "images01/05.jpg",
+		"imgmin":["img02/5-1.jpg","img02/5-2.jpg"],
+		"cost":"￥18.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "06",
+		"title": "SanmiuSunflower新苗向日葵夹心饼干(柠檬味)【菲律",
+		"price": "￥15.20",
+		"imgres": "images01/06.jpg",
+		"imgmin":["img02/6-1.jpg","img02/6-2.jpg"],
+		"cost":"￥29.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "07",
+		"title": "200g丽芝士纳宝蒂奶酪威化饼干",
+		"price": "￥26.00",
+		"imgres": "images01/07.jpg",
+		"imgmin":["img02/7-1.jpg","img02/7-2.jpg","img02/7-3.jpg"],
+		"cost":"￥32.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "08",
+		"title": "40g萌豆牌蘑菇味土豆泥",
+		"price": "￥15.00",
+		"imgres": "images01/08.jpg",
+		"imgmin":["img02/8-1.jpg","img02/8-2.jpg"],
+		"cost":"￥22.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "09",
+		"title": "400g麦维他消化饼",
+		"price": "￥66.00",
+		"imgres": "images01/09.jpg",
+		"imgmin":["img02/9-1.jpg"],
+		"cost":"￥87.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "10",
+		"title": "138g民记鳕鱼风味鱼粒",
+		"price": "￥35.00",
+		"imgres": "images01/10.jpg",
+		"imgmin":["img02/10-1.jpg","img02/10-2.jpg"],
+		"cost":"￥42.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "11",
+		"title": "50g无穷香辣味烤鸡小翅",
+		"price": "￥6.00",
+		"imgres": "images01/11.jpg",
+		"imgmin":["img02/11-1.jpg","img02/11-2.jpg"],
+		"cost":"￥12.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "12",
+		"title": "80g无穷盐焗鸡腿",
+		"price": "￥25.00",
+		"imgres": "images01/12.jpg",
+		"imgmin":["img02/12-1.jpg","img02/12-2.jpg","img02/12-3.jpg"],
+		"cost":"￥32.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "13",
+		"title": "25g麦丽素",
+		"price": "￥6.00",
+		"imgres": "images01/13.jpg",
+		"imgmin":["img02/13-1.jpg","img02/13-2.jpg","img02/14-3.jpg"],
+		"cost":"￥15.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "14",
+		"title": "35g德芙士力架花生夹心",
+		"price": "￥45.00",
+		"imgres": "images01/14.jpg",
+		"imgmin":["img02/14-1.jpg","img02/14-2.jpg","img02/14-3.jpg"],
+		"cost":"￥52.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "15",
+		"title": "方便面",
+		"price": "￥16.00",
+		"imgres": "images01/15.jpg",
+		"imgmin":["img02/15-1.jpg","img02/15-2.jpg"],
+		"cost":"￥32.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "16",
+		"title": "42g德芙抹茶曲奇白巧克力",
+		"price": "￥25.00",
+		"imgres": "images01/16.jpg",
+		"imgmin":["img02/16-1.jpg"],
+		"cost":"￥36.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "17",
+		"title": "面包",
+		"price": "￥6.00",
+		"imgres": "images01/17.jpg",
+		"imgmin":["img02/17-1.jpg","img02/17-2.jpg","img02/17-3.jpg"],
+		"cost":"￥8.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "18",
+		"title": "100gM&M's花生牛奶巧克力豆",
+		"price": "￥16.00",
+		"imgres": "images01/18.jpg",
+		"imgmin":["img02/18-1.jpg","img02/18-2.jpg"],
+		"cost":"￥22.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "19",
+		"title": "20g大昌迷你海苔",
+		"price": "￥62.00",
+		"imgres": "images01/19.jpg",
+		"imgmin":["img02/19-1.jpg","img02/19-2.jpg"],
+		"cost":"￥82.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "20",
+		"title": "30克熊猫先生原味紫菜卷",
+		"price": "￥35.00",
+		"imgres": "images01/20.jpg",
+		"imgmin":["img02/20-1.jpg"],
+		"cost":"￥42.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "21",
+		"title": "36g泰国小老板香辣味烤海",
+		"price": "￥6.02",
+		"imgres": "images01/21.jpg",
+		"imgmin":["img02/21-1.jpg"],
+		"cost":"￥20.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "22",
+		"title": "200g费列罗榛果威化巧克力",
+		"price": "￥35.00",
+		"imgres": "images01/22.jpg",
+		"imgmin":["img02/22-1.jpg"],
+		"cost":"￥52.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	},{
+		"id": "23",
+		"title": "400g麦维他消化饼",
+		"price": "￥14.00",
+		"imgres": "images01/23.jpg",
+		"imgmin":["img02/23-1.jpg","img02/23-2.jpg"],
+		"cost":"￥22.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}, {
+		"id": "24",
+		"title": "40g萌豆牌炸",
+		"price": "￥8.00",
+		"imgres": "images01/24.jpg",
+		"imgmin":["img02/24-1.jpg","img02/24-2.jpg","img02/24-3.jpg"],
+		"cost":"￥12.00",
+		"detail":{
+			"ass":120,
+			"serial":69024894,
+			"inventory":89,
+			"weight":"50克"
+		}
+	}
+]
